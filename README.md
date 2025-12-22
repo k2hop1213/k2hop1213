@@ -1,8 +1,8 @@
 <div align=center>
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2hop68)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={k2hop68}&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle={k2hop68}&theme=cold"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=k2hop68&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle=k2hop68&theme=cold"/>
 |기간|내용|
 |:------:|:------:|
 |23.07.12 ~ 23.08.24|네이버 커넥트재단 부스트코스 <PYTHON 4 EVERYBODY> 코칭스터디:2023|
