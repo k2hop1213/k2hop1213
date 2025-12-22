@@ -4,7 +4,6 @@
 
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=k2hop68&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=k2hop68&theme=dark"/>
 
 
 |기간|내용|
