@@ -11,7 +11,8 @@ Activities
 |25.04.04|SQL Developer 자격증 취득|
 
 --------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2hop1213&layout=compact)](https://github.com/k2hop1213/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2hop1213&layout=compact)](https://github.com/k2hop1213/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2hop1213&show_icons=true&theme=radical)
+
 </div>
 
  
