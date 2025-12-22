@@ -6,6 +6,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k2hop1213&layout=compact)](https://github.com/k2hop1213/github-readme-stats)
 
 
+Activities
+
 |기간|내용|
 |:------:|:------:|
 |23.07.12 ~ 23.08.24|네이버 커넥트재단 부스트코스 <PYTHON 4 EVERYBODY> 코칭스터디:2023|
