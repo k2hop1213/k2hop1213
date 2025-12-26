@@ -1,6 +1,4 @@
 <div align=center>
-  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2hop68) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=k2hop68&theme=dark)
 
 --------
 Activities
