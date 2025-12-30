@@ -1,6 +1,6 @@
 <div align=center>
  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2op68)](https://solved.ac/k2hop68/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2op68)
 
 --------
 Activities
