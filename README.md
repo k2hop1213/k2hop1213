@@ -1,6 +1,5 @@
 <div align= "center">
     
---------
 Activities
 ----
 |기간|내용|
