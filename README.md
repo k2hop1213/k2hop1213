@@ -8,7 +8,5 @@ Activities
 |2025.04.04|SQL Developer 자격증 취득|
 
 --------
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k2hop68)](https://solved.ac/k2hop68/)
  
 </div>
