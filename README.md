@@ -33,6 +33,15 @@
 
 ---
 
+## 🤖 AI를 활용한 서비스 개발
+
+| 프로젝트 | 설명 | 기술 |
+|:--|:--|:--:|
+| [안양 균형발전 내비게이터](https://github.com/AnyangNavigator/anyang_navigator) | 「2026 안양시 공공데이터·AI 활용 대학생 경진대회」 출품작. 안양시 공공데이터로 만안구·동안구의 격차를 진단하고, 시설 투입 시 격차 변화를 시뮬레이션하는 균형발전 의사결정 지원 도구 ([배포 링크](https://anyang-navigator.onrender.com)) | Python, FastAPI, LLM |
+| [FogApp (안개지도)](https://github.com/FogMap2026/FogApp) | 안개 낀 지도를 직접 방문해 밝히고, 여행 성향이 맞는 동행과 함께 기록하는 탐험형 여행 플랫폼. 여행 성향 매칭·발자취 기능 담당 | Flutter, Spring Boot, PostGIS |
+
+---
+
 ## 🏆 Activities
 
 |기간|내용|
