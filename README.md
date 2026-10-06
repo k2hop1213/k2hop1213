@@ -23,6 +23,7 @@
 
 | 저장소 | 설명 | 언어 |
 |:--|:--|:--:|
+| [mc2026](https://github.com/k2hop1213/mc2026) | 마이크로컨트롤러응용 과목 차시별 실습 코드 (Arduino Uno, PlatformIO) | C++ |
 | [Deeplearning](https://github.com/k2hop1213/Deeplearning) | 인공지능 및 신경망 공부 내용 기록 | Jupyter Notebook |
 | [DataScience2026-1](https://github.com/k2hop1213/DataScience2026-1) | 데이터사이언스기초 과목 실습 코드 | Jupyter Notebook |
 | [DataStructure2026-1](https://github.com/k2hop1213/DataStructure2026-1) | 데이터구조 과목 공부 기록 | C |
